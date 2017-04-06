@@ -1,2 +1,2 @@
 # VIT-Go-Backend
-This is the repository for the backend of VIT Go hosted on heroku servers
+This project is private, if you want to contribute, please contact us. We will more than happ to see you onboard.
